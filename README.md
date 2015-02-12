@@ -1,2 +1,2 @@
-# Sublime-GoogleSearch-Plugin
-Google Search plugin for Sublime Text
+# Sublime-GoogleSearch
+Sublime plugin for Google Search.
