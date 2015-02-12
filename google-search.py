@@ -23,7 +23,7 @@ class GoogleSearchSelectedCommand(sublime_plugin.TextCommand):
 class GoogleSearchFromInputCommand(sublime_plugin.WindowCommand):
     def run(self):
         # Get the search item
-        self.window.show_input_panel('Search for', '',
+        self.window.show_input_panel('Google for', '',
             self.on_done, self.on_change, self.on_cancel)
     def on_done(self, input):
         query(input)
