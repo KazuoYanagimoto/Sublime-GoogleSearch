@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Google Search: Search Selected",
+        "command": "google_search_selected"
+    },
+    {
+        "caption": "Google Search: Search from Input",
+        "command": "google_search_from_input"
+    }
+]

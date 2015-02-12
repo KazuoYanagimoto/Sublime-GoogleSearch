@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Google Search",
+                "mnemonic": "G",
+                "id": "googlesearch",
+                "children":
+                [
+                    {
+                        "command": "google_search_selected",
+                        "caption": "Search from Selected"
+                    },
+                    {
+                        "command": "google_search_from_input",
+                        "caption": "Search from Input"
+                    }
+                ]
+            }
+        ]
+    }
+]
